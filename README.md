@@ -18,4 +18,4 @@ Gym page
 <img   width="100%" height="500" Justify-content="center" alt="image" src="https://cdn-images-1.medium.com/max/1200/1*FZqx2EJq6RXCsYMSVyLiGQ.png">
 <br>
 <br>
-<img   width="100" height="100" Justify-content="center" alt="image" src="https://paste.pics/357f8a65a20e3b73546ed36360c086b0">
+<img   width="100" height="100" Justify-content="center" alt="image" src="https://cdn-images-1.medium.com/max/1200/1*4Uxbvkmju6o9o3AJBgZdYA.png">
