@@ -9,7 +9,7 @@ front page
 <br>
 
 
-<img  width="100" height="100" Justify-content="center" alt="image" src="https://cdn-images-1.medium.com/max/1200/1*bUGO6ikGxQTKpzbHqXZ0EQ.png">
+<img  width="100%" height="500" Justify-content="center" alt="image" src="https://cdn-images-1.medium.com/max/1200/1*bUGO6ikGxQTKpzbHqXZ0EQ.png">
 
 
 <br>
