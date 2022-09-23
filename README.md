@@ -1,7 +1,7 @@
 # New-wtf-Assignment
 
 front page
-<img  width="100" height="100" Justify-content="center" alt="image" src="https://postimg.cc/FdxSbWZk">
+<img  width="100" height="100" Justify-content="center" alt="image" src="https://cdn-images-1.medium.com/max/1200/1*fVLumpCpklVLu9f9OAJ8EQ.png">
 
 <br>
 <br>
